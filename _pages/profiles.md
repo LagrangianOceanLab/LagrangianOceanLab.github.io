@@ -1,7 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: Team
+title: team
+page-title: Meet the Team
 description: (blurb)
 nav: true
 nav_order: 1
