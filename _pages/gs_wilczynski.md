@@ -2,5 +2,3 @@
 *graduate student*
 
 Research interests:
-
-Hobbies: 
