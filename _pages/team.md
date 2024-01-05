@@ -1,7 +1,7 @@
 ---
 # Code and layout taken from games-mcgill.github.io 
 layout: team
-permalink: /team2
+permalink: /team2/
 title: team2
 page-title: Meet the Team
 description: Our fabulous members of the GAMES executive committee. <br />Feel free to reach out to them anytime!
