@@ -10,6 +10,8 @@ layout: page
           {% for profile in page.profiles %}
             {% if profile.header %}
               <h1>test2</h1>
+              
+              <h1>{{ profile.header }}</h1>
             {% endif %}
           <hr>
           <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
