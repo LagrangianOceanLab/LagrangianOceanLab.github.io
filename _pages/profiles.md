@@ -2,8 +2,7 @@
 layout: profiles
 permalink: /people/
 title: team
-page-title: Meet the Team  # does not work, fix later
-description: (blurb)
+description: 
 nav: true
 nav_order: 1
 

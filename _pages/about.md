@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Moving with the flow 
+subtitle: <em>Moving with the flow</em> 
 
 profile:
   align: right
