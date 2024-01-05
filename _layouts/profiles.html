@@ -8,9 +8,8 @@ layout: page
         <article>
           {% if page.profiles -%}
           {% for profile in page.profiles %}
+            <!-- added a header field to label groups - JCG -->
             {% if profile.header %}
-              <h1>test2</h1>
-              
               <h1>{{ profile.header }}</h1>
             {% endif %}
           <hr>
