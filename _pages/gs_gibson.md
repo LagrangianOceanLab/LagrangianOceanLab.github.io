@@ -1,1 +1,4 @@
-[upcoming]
+# Chad Gibson
+
+Research interests:
+Hobbies: 
