@@ -8,7 +8,9 @@ layout: page
         <article>
           {% if page.profiles -%}
           {% for profile in page.profiles %}
-          <h1>test</h1>
+            {% if profile.header %}
+              <h1>test2</h1>
+            {% endif %}
           <hr>
           <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if profile.image %}
