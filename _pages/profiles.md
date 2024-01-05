@@ -15,7 +15,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
       <a href="https://www.vecteezy.com/free-vector/animals">Animals Vectors by Vecteezy</a>
-    header : gs
+    header : graduate students
   - align: left
     image: octopus.jpg
     content: gs_wilczynski.md
