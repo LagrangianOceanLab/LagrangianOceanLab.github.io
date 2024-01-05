@@ -2,10 +2,12 @@
 layout: profiles
 permalink: /people/
 title: team
-page-title: Meet the Team
+page-title: Meet the Team  # does not work, fix later
 description: (blurb)
 nav: true
 nav_order: 1
+
+<h1>Graduate students</h2>
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -24,5 +26,3 @@ profiles:
     more_info: >
       <a href="https://www.vecteezy.com/free-vector/animals">Animals Vectors by Vecteezy</a>
 ---
-
-## Graduate students
