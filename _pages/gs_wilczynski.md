@@ -1,5 +1,5 @@
 ### Leah Wilczynski
-graduate student
+*graduate student*
 
 Research interests:
 

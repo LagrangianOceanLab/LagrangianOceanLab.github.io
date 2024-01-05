@@ -1,5 +1,5 @@
 ### Chad Gibson
-graduate student
+*graduate student*
 
 Research interests:
 
