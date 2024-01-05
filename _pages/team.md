@@ -1,5 +1,4 @@
 ---
-# Code and layout taken from games-mcgill.github.io 
 layout: team
 permalink: /team2/
 title: team2
@@ -8,7 +7,6 @@ description: Our fabulous members of the GAMES executive committee. <br />Feel f
 
 nav: true
 nav_order: 2
-nav_rank: 2
 ---
 
 {% assign groups = site.members | sort: "group_rank" | map: "group" | uniq %}
