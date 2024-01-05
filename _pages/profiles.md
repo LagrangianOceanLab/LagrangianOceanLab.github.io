@@ -9,6 +9,11 @@ nav_order: 1
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  # add a header field for the first person in each group to label the sections - JCG
+  - align: left
+    image: pic_garwood.jpg
+    content: garwood.md
+    image_circular: false # crops the image to make it circular
   - align: left
     image: octopus.jpg
     content: gs_gibson.md
