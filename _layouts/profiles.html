@@ -9,7 +9,7 @@ layout: page
           {% if page.profiles -%}
           {% for profile in page.profiles %}
           <hr>
-          {{<h2>Test</h2>}}
+          <h2>Test</h2>
           <div class="profile float-{%- if profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
             {%- if profile.image %}
               {%- assign profile_image_path = profile.image | prepend: 'assets/img/' -%}
@@ -31,7 +31,7 @@ layout: page
             {% endif -%}
             {%- if profile.more_info %}
             <div class="more-info">
-              {{<h2>Test2</h2>}}
+              <h2>Test2</h2>
               {{ profile.more_info }}
             </div>
             {%- endif %}
