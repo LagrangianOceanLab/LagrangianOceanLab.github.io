@@ -15,6 +15,8 @@ profiles:
     image: pic_garwood.jpg
     content: garwood.md
     image_circular: false # crops the image to make it circular
+    - align: left
+    content: ra_passos.md
   - align: left
     image: pic_gibson.jpg
     content: gs_gibson.md
