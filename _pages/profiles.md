@@ -19,7 +19,7 @@ profiles:
     # content: ra_passos.md
     # header : researchers
 - align: left
-    # image: pic_garwood.jpg
+    image: pic_passos.jpg
     content: ra_passos.md
     image_circular: false # crops the image to make it circular
     # - align: left
