@@ -18,6 +18,13 @@ profiles:
     # - align: left
     # content: ra_passos.md
     # header : researchers
+- align: left
+    # image: pic_garwood.jpg
+    content: ra_passos.md
+    image_circular: false # crops the image to make it circular
+    # - align: left
+    # content: ra_passos.md
+    # header : researchers
   - align: left
     image: pic_gibson.jpg
     content: gs_gibson.md
