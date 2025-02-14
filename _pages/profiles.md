@@ -37,8 +37,7 @@ profiles:
     content: gs_wilczynski.md
     image_circular: false # crops the image to make it circular
   - align: left
-    #image: pic_noto.jpg
-    content: past_noto.md
+    content: past.md
     image_circular: false # crops the image to make it circular
     header : past members
 ---
