@@ -1,4 +1,4 @@
-### Jessica C. Garwood
+### Prof. Jessica C. Garwood
 *assistant professor*
 
 My research interests focus on small-scale physical-biological 
