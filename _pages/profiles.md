@@ -21,7 +21,7 @@ profiles:
     image_circular: false # crops the image to make it circular
     header : researchers
   - align: left
-    image: pic_jacobsen.png
+    image: pic_jacobsen.jpg
     content: pd_jacobsen.md
     image_circular: false # crops the image to make it circular
   - align: left
