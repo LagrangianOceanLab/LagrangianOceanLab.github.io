@@ -1,4 +1,4 @@
-### Jasen Jacobsen
+### Dr. Jasen Jacobsen
 *postdoctoral scholar*
 
 Jasen's research focuses on how fluid processes in the ocean shape marine 
